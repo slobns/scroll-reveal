@@ -1,0 +1,75 @@
+
+body {
+    margin-top: 70px;
+    font-size: responsiv;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Poppins";
+}
+p {
+    font-family: "Roboto";
+}
+.navbar-default {
+    background: #fff;
+    border: 0;
+    font-family: "Poppins";
+}
+.navbar-brand {
+    font-size: 20px;
+    color: darkgreen !important;
+    font-weight: bold;
+}
+
+#showcase h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+#showcase img {
+    widows: 90%;
+    margin-left: 50px;
+}
+#showcase .showcase-right {
+    margin-top: 50px;
+}
+
+#testimonial {
+    background: #d3ffce;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+    
+}
+#testimonial p {
+    font-size: 24px;
+    font-family: "Josefin Sans";
+    color: #000;
+}
+#testimonial p.customer {
+    font-size: 18px;
+    color: #55a191;
+}
+#info1 .info-right {
+    margin-top: 60px;
+}
+#info1 img {
+
+    margin-top: 60px;
+    margin-left: 40px; 
+}
+
+#info2 {margin:20px 0 60px 0;}
+
+#contact {
+    background: url('https://a.travel-assets.com/findyours-php/viewfinder/images/res60/47000/47736-Hoh-Rain-Forest-Visitor-Center.jpg') no-repeat center;
+    padding: 40px;
+    color: #fff;
+    border-top: #333 7px solid;
+    border-bottom: #333 7px solid;
+   
+    
+}
+
+footer {
+    padding: 30px;
+    color: darkgreen;
+}
